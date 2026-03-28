@@ -116,7 +116,7 @@ She loves performing a variety of styles, especially pop, country, and musical t
     {
       name: "Spencer Rydman",
       songs: "A Whole New World, I See the Light",
-      bio: "Spencer is a well respected attorney specializing in child welfare. He is a graduate of Arizona State University law school. Spencer is a part of a large family and achieved cult fame for a documentary made about him and his 33 siblings. In his spare time, Spencer is pursuing amateur performance magic.",
+      bio: "Spencer has been singing and participating in musical theater since he was 5 years old. In adulthood he has worked for Black Bart’s musical review in Flagstaff, where he sang professionally for several years while also doing shows with the Flagstaff Light Opera Company. Spencer is a well respected attorney specializing in child welfare. He is a graduate of Arizona State University law school. Spencer is a part of a large family and achieved cult fame for a documentary made about him and his 33 siblings. In his spare time, Spencer is pursuing amateur performance magic.",
       headshot: "/images/spencer.jpg",
     },
   ],
